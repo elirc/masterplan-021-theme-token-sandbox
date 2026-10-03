@@ -1,0 +1,23 @@
+{
+  "recordedAt": "2026-10-03T22:31:11.679150+00:00",
+  "nodeVersion": "v22.16.0",
+  "nodeChecks": {
+    "command": "node --test",
+    "exitCode": 0,
+    "tests": 4,
+    "output": "TAP version 13\n# Subtest: partial theme falls back to complete base tokens\nok 1 - partial theme falls back to complete base tokens\n  ---\n  duration_ms: 6.38\n  type: 'test'\n  ...\n# Subtest: contrast has known black/white and identical-color results\nok 2 - contrast has known black/white and identical-color results\n  ---\n  duration_ms: 5.4534\n  type: 'test'\n  ...\n# Subtest: both displayed text pairs exceed 4.5 in each supplied theme\nok 3 - both displayed text pairs exceed 4.5 in each supplied theme\n  ---\n  duration_ms: 2.3199\n  type: 'test'\n  ...\n# Subtest: invalid theme and color requests fail explicitly\nok 4 - invalid theme and color requests fail explicitly\n  ---\n  duration_ms: 3.2149\n  type: 'test'\n  ...\n1..4\n# tests 4\n# suites 0\n# pass 4\n# fail 0\n# cancelled 0\n# skipped 0\n# todo 0\n# duration_ms 963.7485\n"
+  },
+  "browserChecks": {
+    "id": 21,
+    "status": "passed",
+    "checks": [
+      "No document horizontal overflow at 1200, 800, 500 and 320 CSS pixels",
+      "First Tab reveals skip link; Enter focuses main",
+      "Night color and spacing tokens affect rendered styles; partial theme restores base accent and 16px spacing in both components; long button label fits at 320px"
+    ],
+    "browser": "Installed Microsoft Edge via Playwright",
+    "checkedAt": "2026-10-03T22:30:13.620829+00:00",
+    "consoleErrors": []
+  },
+  "scope": "Actual local reference verification. Learner stories are not implemented. Remote CI results are separate."
+}
