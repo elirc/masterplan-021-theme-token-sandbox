@@ -6,8 +6,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 01: Add a third component
 
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Create a small status badge consuming existing tokens before inventing new ones.
 
 **Implementation plan:**
@@ -26,8 +24,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 02: Show fallback origins
-
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Return or derive a per-token source label indicating base or override.
 
@@ -48,8 +44,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 03: Add a new authored theme
 
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Choose a small complete or partial override set and verify both displayed color pairs.
 
 **Implementation plan:**
@@ -68,8 +62,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 04: Add a theme reset button
-
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Return to paper through the same resolve-and-render route.
 
@@ -90,8 +82,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 
 ## Story 05: Explain unsupported colors
 
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
-
 **Feature boundary:** Add examples documenting why named colors, alpha colors and gradients are outside the contrast helper.
 
 **Implementation plan:**
@@ -110,8 +100,6 @@ These are new exercises beyond the finished reference. No story is marked comple
 **Stretch only after completion:** add one adversarial example that a plausible but incorrect solution would fail. Explain why that example is more informative than adding three ordinary examples.
 
 ## Story 06: Create a manual focus worksheet
-
-**User need:** As a learner or user of Theme Token Sandbox, I want this small improvement so the behavior is easier to use, explain or verify.
 
 **Feature boundary:** Record Tab order, visible focus and the same long label under each theme.
 

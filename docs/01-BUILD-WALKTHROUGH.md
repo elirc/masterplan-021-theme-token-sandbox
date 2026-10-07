@@ -20,13 +20,13 @@ Read baseTokens and find each corresponding var reference in public/style.css. W
 
 Try paper, night, then partial. Inspect the partial accent and verify it returns to the base green instead of retaining night's light accent. This sequence matters because loading partial first would not expose stale values left by a previous theme.
 
-**Pause and produce evidence:** Black against white. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** Partial theme omits accent. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Step 3: Verify arithmetic separately
 
 Read contrast and test the two known endpoints: identical colors have ratio one and black/white have ratio twenty-one. Then inspect actual supplied token pairs. Keep the exact numeric comparison in tests and round only for display so formatting does not convert a near miss into a pass.
 
-**Pause and produce evidence:** Long button label at 320px. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
+**Pause and produce evidence:** Black against white. Predict the outcome, then compare it with the reference. In your notes, distinguish what the code says should happen from what you actually observed.
 
 ## Step 4: Inspect the rendered components
 
